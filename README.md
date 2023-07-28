@@ -1,6 +1,6 @@
 <h1 align="center">To Do List Responsivo | By: Asafe</h1>
 
-#Descrição do Projeto
+# Descrição do Projeto
 
 O To Do list foi feito com base no vídeo do [Rodolfo Mori](https://www.youtube.com/watch?v=k0roUpojoSE&t=2324s), e foi feito com o objetivo de ajudar a todos a relembrarem suas tarefas diárias. O projeto foi feito utilizando local storage, para não prejudicar a experiência do usuário.
 
