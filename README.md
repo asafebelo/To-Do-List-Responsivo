@@ -1,2 +1,2 @@
-<h1>To-Do-List-Responsivo</h1>
-To Do List feito em HTML, CSS e Javascript, feito de forma responsiva, usando como base o vídeo do [Rodolfo Mori](https://www.youtube.com/watch?v=k0roUpojoSE&t=2324s)
+<h1 align="center">To Do List Responsivo | By: Asafe</h1>
+![Badge em Desenvolvimento](https://img.shields.io/badge/Status-Em_Desenvolvimento-green)
